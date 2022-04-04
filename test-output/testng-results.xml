@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="253100" started-at="2022-04-04T14:57:29 IST" finished-at="2022-04-04T15:01:42 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="253100" started-at="2022-04-04T14:57:29 IST" finished-at="2022-04-04T15:01:42 IST">
+      <class name="org.runner_class_testng.PurchaseDress_TestNg">
+        <test-method status="PASS" signature="Report_Creating()[pri:0, instance:org.runner_class_testng.PurchaseDress_TestNg@11d8ae8b]" name="Report_Creating" is-config="true" duration-ms="709" started-at="2022-04-04T14:57:29 IST" finished-at="2022-04-04T14:57:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Report_Creating -->
+        <test-method status="PASS" signature="browserluncher()[pri:0, instance:org.runner_class_testng.PurchaseDress_TestNg@11d8ae8b]" name="browserluncher" is-config="true" duration-ms="19705" started-at="2022-04-04T14:57:30 IST" finished-at="2022-04-04T14:57:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserluncher -->
+        <test-method status="PASS" signature="Signin()[pri:0, instance:org.runner_class_testng.PurchaseDress_TestNg@11d8ae8b]" name="Signin" is-config="true" duration-ms="7547" started-at="2022-04-04T14:57:49 IST" finished-at="2022-04-04T14:57:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin -->
+        <test-method status="PASS" signature="BeachDressDress()[pri:0, instance:org.runner_class_testng.PurchaseDress_TestNg@11d8ae8b]" name="BeachDressDress" duration-ms="31664" started-at="2022-04-04T14:57:57 IST" finished-at="2022-04-04T14:58:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeachDressDress -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:org.runner_class_testng.PurchaseDress_TestNg@11d8ae8b]" name="Logout" is-config="true" duration-ms="3205" started-at="2022-04-04T14:58:29 IST" finished-at="2022-04-04T14:58:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Signin()[pri:0, instance:org.runner_class_testng.PurchaseDress_TestNg@11d8ae8b]" name="Signin" is-config="true" duration-ms="4978" started-at="2022-04-04T14:58:32 IST" finished-at="2022-04-04T14:58:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin -->
+        <test-method status="PASS" signature="CasualDress()[pri:0, instance:org.runner_class_testng.PurchaseDress_TestNg@11d8ae8b]" name="CasualDress" duration-ms="64939" started-at="2022-04-04T14:58:37 IST" finished-at="2022-04-04T14:59:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CasualDress -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:org.runner_class_testng.PurchaseDress_TestNg@11d8ae8b]" name="Logout" is-config="true" duration-ms="13444" started-at="2022-04-04T14:59:42 IST" finished-at="2022-04-04T14:59:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Signin()[pri:0, instance:org.runner_class_testng.PurchaseDress_TestNg@11d8ae8b]" name="Signin" is-config="true" duration-ms="19054" started-at="2022-04-04T14:59:55 IST" finished-at="2022-04-04T15:00:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin -->
+        <test-method status="PASS" signature="SummerDressDress()[pri:0, instance:org.runner_class_testng.PurchaseDress_TestNg@11d8ae8b]" name="SummerDressDress" duration-ms="73088" started-at="2022-04-04T15:00:14 IST" finished-at="2022-04-04T15:01:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SummerDressDress -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:org.runner_class_testng.PurchaseDress_TestNg@11d8ae8b]" name="Logout" is-config="true" duration-ms="13758" started-at="2022-04-04T15:01:27 IST" finished-at="2022-04-04T15:01:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Close1()[pri:0, instance:org.runner_class_testng.PurchaseDress_TestNg@11d8ae8b]" name="Close1" is-config="true" duration-ms="161" started-at="2022-04-04T15:01:41 IST" finished-at="2022-04-04T15:01:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close1 -->
+        <test-method status="PASS" signature="flush()[pri:0, instance:org.runner_class_testng.PurchaseDress_TestNg@11d8ae8b]" name="flush" is-config="true" duration-ms="715" started-at="2022-04-04T15:01:41 IST" finished-at="2022-04-04T15:01:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- org.runner_class_testng.PurchaseDress_TestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
